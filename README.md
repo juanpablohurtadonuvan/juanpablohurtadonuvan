@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Pablo Hurtado!
-- 👀 I’m a Frontend and Web 3 Developer!
+- 👀 I’m a Full Stack and Web 3 Developer!
 - 🌱 I’m currently learning flutter!
 
 
