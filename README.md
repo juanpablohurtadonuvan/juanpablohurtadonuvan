@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on One Consultants as Team Lead.<br>I'm looking for collaborate on Backend with Node using typescript<br>I'm looking for help with Mobile Development.<br>I'm currently learning Flutter.<br>Ask me about Web 3 and blockchain!<br>
+I'm looking for collaborate on Backend with Node using typescript<br>I'm looking for help with Mobile Development.<br>I'm currently learning Flutter.<br>Ask me about Web 3 and blockchain!<br>
 
 
 ## 🌐 Socials:
